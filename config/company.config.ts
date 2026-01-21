@@ -10,7 +10,7 @@ export const companyConfig = {
   // Контакты
   phone: "+7 (939) 034-91-33",
   phoneLink: "+79390349133",
-  email: "info@bta-torg.ru",
+  email: "bta.torg@mail.ru",
   website: "bta-torg.ru",
 
   // Адрес
