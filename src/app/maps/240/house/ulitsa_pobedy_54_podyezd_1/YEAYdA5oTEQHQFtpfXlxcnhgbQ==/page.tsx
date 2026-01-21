@@ -1483,8 +1483,8 @@ export default function Page() {
                     <div className="px-6 pt-2">
                       <div className="w-full bg-white rounded-lg p-4 flex items-center justify-center">
                         <img
-                          src="/transavtopskov-logo.svg"
-                          alt="Трансавтопсков"
+                          src="/bta-torg-logo.svg"
+                          alt="БТА ТОРГ"
                           className="w-full max-w-xs h-auto"
                         />
                       </div>
@@ -1842,8 +1842,8 @@ export default function Page() {
                 {/* Header with logo - НЕ закрепленная */}
                 <div className="relative h-64 xs:h-72 iphone-16-pro-max:h-80 bg-white flex-shrink-0 flex items-center justify-center p-8">
                   <img
-                    src="/transavtopskov-logo.svg"
-                    alt="Трансавтопсков"
+                    src="/bta-torg-logo.svg"
+                    alt="БТА ТОРГ"
                     className="w-full max-w-md h-auto object-contain"
                     loading="eager"
                     decoding="async"
@@ -2115,8 +2115,8 @@ export default function Page() {
                         <div className="flex justify-center mb-3 xs:mb-4">
                           <div className="w-full h-24 xs:h-28 flex items-center justify-center">
                             <img
-                              src="/transavtopskov-logo.svg"
-                              alt="Трансавтопсков"
+                              src="/bta-torg-logo.svg"
+                              alt="БТА ТОРГ"
                               className="w-full max-w-[160px] xs:max-w-[180px] h-auto"
                               loading="lazy"
                               decoding="async"
@@ -2134,8 +2134,8 @@ export default function Page() {
                         <div className="flex justify-center mb-3 xs:mb-4">
                           <div className="w-full h-24 xs:h-28 flex items-center justify-center">
                             <img
-                              src="/transavtopskov-logo.svg"
-                              alt="Трансавтопсков"
+                              src="/bta-torg-logo.svg"
+                              alt="БТА ТОРГ"
                               className="w-full max-w-[160px] xs:max-w-[180px] h-auto"
                               loading="lazy"
                               decoding="async"
@@ -2153,8 +2153,8 @@ export default function Page() {
                         <div className="flex justify-center mb-3 xs:mb-4">
                           <div className="w-full h-24 xs:h-28 flex items-center justify-center">
                             <img
-                              src="/transavtopskov-logo.svg"
-                              alt="Трансавтопсков"
+                              src="/bta-torg-logo.svg"
+                              alt="БТА ТОРГ"
                               className="w-full max-w-[160px] xs:max-w-[180px] h-auto"
                               loading="lazy"
                               decoding="async"
@@ -2834,7 +2834,7 @@ export default function Page() {
                                     <span className="text-white text-[10px] font-bold">AP</span>
                                   </div>
                                   <div>
-                                    <div className="text-[12px] xs:text-[13px] font-semibold text-gray-900">Трансавтопсков</div>
+                                    <div className="text-[12px] xs:text-[13px] font-semibold text-gray-900">БТА ТОРГ</div>
                                     <div className="text-[10px] xs:text-[11px] text-gray-500">Представитель компании</div>
                                   </div>
                                 </div>
@@ -3320,7 +3320,7 @@ export default function Page() {
             <div className="overflow-y-auto flex-1">
               <div className="px-6 pt-2">
                 <div className="w-full bg-white rounded-lg p-4 flex items-center justify-center">
-                  <img src="/transavtopskov-logo.svg" alt="Трансавтопсков" className="w-full max-w-xs h-auto" loading="lazy" decoding="async" />
+                  <img src="/bta-torg-logo.svg" alt="БТА ТОРГ" className="w-full max-w-xs h-auto" loading="lazy" decoding="async" />
                 </div>
               </div>
               <div className="px-6 pt-3 pb-3">

@@ -38,8 +38,8 @@ export const companyConfig = {
 
   // Логотип
   logo: {
-    url: "/transavtopskov-logo.svg",
-    alt: "Трансавтопсков"
+    url: "/bta-torg-logo.svg",
+    alt: "БТА ТОРГ"
   },
 
   // График работы
